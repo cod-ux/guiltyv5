@@ -11,9 +11,7 @@ The app is designed as a web application and is made with streamlit due to its s
 - Once signed up, the user will receive an onboarding email giving instructions on how the forecasting is calculated, when they will typically receive emails and the conetents of the email (such as expected monthly spend, how much to spend that day to get back on track, and what to do if they have unavoidable incoming expenses)
 - Users can log in to the web app after signing up to change their settings, such as - email, username, budget amount, pay date, etc...
 
-
-## Distribution
-
+### Distribution
 The program is primarily distributed as a web app that users can access on: <a href="URL> https:// </a>
 
 
@@ -24,7 +22,7 @@ The program is primarily distributed as a web app that users can access on: <a h
 - There was also a struggle with deciding if the program should be a web app, a flutter-based mobile app, or something else. But nothing was as effective as combining a signup page and an email system, instead of a full-scale app.
 
 
-### Features for the future
+## Features for the future
 
 
 
