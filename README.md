@@ -16,7 +16,7 @@ The program is primarily distributed as a web app that users can access here: <a
 
 ## Challenges
 - Finding a suitable library to connect to the user's bank data was difficult as it needed to be both simple and cost-effective for an open-source free-to-use project. Among many other options (ex: Plaid, TrueLayer) Nordigen was the the best fit in these categories.
-- 
+- With the same metrics of simplicity and cost-effectiveness in mind, I wanted an easy low-code/no-code front-end solution to showcase the web app. Unlike most options (bubble io, flutter, javascript), streamlit was the best option I could find.
 
 Features you hope to implement in the future
 
