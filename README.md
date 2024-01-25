@@ -11,13 +11,10 @@ The app is designed as a web application and is made with streamlit due to its s
 - Once signed up, the user will receive an onboarding email giving instructions on how the forecasting is calculated, when they will typically receive emails and the conetents of the email (such as expected monthly spend, how much to spend that day to get back on track, and what to do if they have unavoidable incoming expenses)
 - Users can log in to the web app after signing up to change their settings, such as - email, username, budget amount, pay date, etc...
 
-How to build it
+## Distribution & Use
+The program is primarily distributed as a web app that users can access here: <a href="URL> https:// </a>
 
-Use it for free on the website
-
-Why you used the technologies you used
-
-Some of the challenges you faced
+## Challenges
 
 Features you hope to implement in the future
 
