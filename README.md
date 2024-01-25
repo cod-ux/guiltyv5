@@ -12,7 +12,7 @@ The app is designed as a web application and is made with streamlit due to its s
 - Users can log in to the web app after signing up to change their settings, such as - email, username, budget amount, pay date, etc...
 
 ### The Forecasting process
-- The amount of money spent in the last 5 days divided by 5 provides the **average spending rate**, which is multiplied by the days remaining in the budget month to forecast the money spent that month.
+- The amount of money spent in the last 7 days divided by 7 provides the **average spending rate**, which is multiplied by the days remaining in the budget month to forecast the money spent that month.
 - When calculating the total money spent in a time period, if 'x' pounds are spent from the bank account and 'x' pounds are sent to the bank account, then it is considered as no money spent. This is to take into account friends splitting bills, and paying back any previous expenses
 - No transaction with a value above 15% of the total budget is taken into account when calculating total money spent, as usually these are miscellaneous transactions that are not part of the monthly budgets (like tuition expenses, rent, etc...)
 
