@@ -15,6 +15,8 @@ The app is designed as a web application and is made with streamlit due to its s
 The program is primarily distributed as a web app that users can access here: <a href="URL> https:// </a>
 
 ## Challenges
+- Finding a suitable library to connect to the user's bank data was difficult as it needed to be both simple and cost-effective for an open-source free-to-use project. Among many other options (ex: Plaid, TrueLayer) Nordigen was the the best fit in these categories.
+- 
 
 Features you hope to implement in the future
 
