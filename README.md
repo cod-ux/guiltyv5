@@ -1,5 +1,5 @@
 # The Guilty Project
-A Python app that makes a forecast every day on how much the user will spend in that month based on their spending so far in the month and sends an email notification to them if the forecast is more than their budget, saying they should spend only 'x' amount today if they want to get back on track with their budget. 
+A Python app that makes a daily forecast on how much the user is expected to spend that month based on their spending so far and sends an email notification to the user if the forecasted amount is more than their budget saying they should spend only 'x' amount today if they want to get back on track with their budget. 
 
 The app is made with streamlit, firebase and the nordigen (Gocardless) API.
 
