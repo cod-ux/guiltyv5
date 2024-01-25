@@ -28,6 +28,8 @@ The program is primarily distributed as a web app that users can access on: <a h
 
 
 ## Features for the future
-- Display a list of transactions when the user is logged in. Select transactions that are not part of the budget to exclude them from forecast predictions
+- Display all transactions and select transactions that are not part of the budget to exclude them from all calculations
+- AI-generated memes/jokes in the email to motivate the user into spending less (ex: A roasting joke on the state of their bank account)
+- Offer discounts and deals from famous vendors to satisfy cravings and help reduce spending
 
 
