@@ -23,6 +23,6 @@ The program is primarily distributed as a web app that users can access on: <a h
 
 
 ## Features for the future
-
+- Display a list of transactions when the user is logged in. Select transactions that are not part of the budget to exclude them from forecast predictions
 
 
