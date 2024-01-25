@@ -11,15 +11,20 @@ The app is designed as a web application and is made with streamlit due to its s
 - Once signed up, the user will receive an onboarding email giving instructions on how the forecasting is calculated, when they will typically receive emails and the conetents of the email (such as expected monthly spend, how much to spend that day to get back on track, and what to do if they have unavoidable incoming expenses)
 - Users can log in to the web app after signing up to change their settings, such as - email, username, budget amount, pay date, etc...
 
-## Distribution & Use
-The program is primarily distributed as a web app that users can access here: <a href="URL> https:// </a>
+
+## Distribution
+
+The program is primarily distributed as a web app that users can access on: <a href="URL> https:// </a>
+
 
 ## Challenges
+
 - Finding a suitable library to connect to the user's bank data was difficult as it needed to be both simple and cost-effective for an open-source free-to-use project. Among many other options (ex: Plaid, TrueLayer) Nordigen was the the best fit in these categories.
 - With the same metrics of simplicity and cost-effectiveness in mind, I wanted an easy low-code/no-code front-end solution to showcase the web app. Unlike most options (bubble io, flutter, javascript), streamlit was the best option I could find.
 - There was also a struggle with deciding if the program should be a web app, a flutter-based mobile app, or something else. But nothing was as effective as combining a signup page and an email system, instead of a full-scale app.
 
-Features you hope to implement in the future
+
+### Features for the future
 
 
 
